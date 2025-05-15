@@ -3,6 +3,7 @@
 *.jpg
 *.jpeg
 *.png
+*.mp4
 
 # Jupyter 관련 체크포인트 무시
 .ipynb_checkpoints/
